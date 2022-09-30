@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoftBookRider</string>
+    <string name="title_activity_book_store_location">BookStoreLocationActivity</string>
+    <string name="title_activity_my_location">MyLocationActivity</string>
+</resources>
